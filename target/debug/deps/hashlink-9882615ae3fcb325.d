@@ -1,0 +1,10 @@
+D:\Новая папка (2)\crypto-news-aggregator\target\debug\deps\libhashlink-9882615ae3fcb325.rmeta: D:\Programs\PROGRAMMING\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hashlink-0.7.0\src\lib.rs D:\Programs\PROGRAMMING\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hashlink-0.7.0\src\linked_hash_map.rs D:\Programs\PROGRAMMING\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hashlink-0.7.0\src\linked_hash_set.rs D:\Programs\PROGRAMMING\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hashlink-0.7.0\src\lru_cache.rs
+
+D:\Новая папка (2)\crypto-news-aggregator\target\debug\deps\libhashlink-9882615ae3fcb325.rlib: D:\Programs\PROGRAMMING\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hashlink-0.7.0\src\lib.rs D:\Programs\PROGRAMMING\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hashlink-0.7.0\src\linked_hash_map.rs D:\Programs\PROGRAMMING\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hashlink-0.7.0\src\linked_hash_set.rs D:\Programs\PROGRAMMING\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hashlink-0.7.0\src\lru_cache.rs
+
+D:\Новая папка (2)\crypto-news-aggregator\target\debug\deps\hashlink-9882615ae3fcb325.d: D:\Programs\PROGRAMMING\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hashlink-0.7.0\src\lib.rs D:\Programs\PROGRAMMING\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hashlink-0.7.0\src\linked_hash_map.rs D:\Programs\PROGRAMMING\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hashlink-0.7.0\src\linked_hash_set.rs D:\Programs\PROGRAMMING\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hashlink-0.7.0\src\lru_cache.rs
+
+D:\Programs\PROGRAMMING\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hashlink-0.7.0\src\lib.rs:
+D:\Programs\PROGRAMMING\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hashlink-0.7.0\src\linked_hash_map.rs:
+D:\Programs\PROGRAMMING\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hashlink-0.7.0\src\linked_hash_set.rs:
+D:\Programs\PROGRAMMING\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hashlink-0.7.0\src\lru_cache.rs:

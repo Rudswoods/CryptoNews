@@ -1,0 +1,10 @@
+D:\Новая папка (2)\crypto-news-aggregator\target\debug\deps\libactix_rt-b08e100995715e48.rmeta: D:\Programs\PROGRAMMING\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\actix-rt-2.10.0\src\lib.rs D:\Programs\PROGRAMMING\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\actix-rt-2.10.0\src\arbiter.rs D:\Programs\PROGRAMMING\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\actix-rt-2.10.0\src\runtime.rs D:\Programs\PROGRAMMING\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\actix-rt-2.10.0\src\system.rs
+
+D:\Новая папка (2)\crypto-news-aggregator\target\debug\deps\libactix_rt-b08e100995715e48.rlib: D:\Programs\PROGRAMMING\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\actix-rt-2.10.0\src\lib.rs D:\Programs\PROGRAMMING\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\actix-rt-2.10.0\src\arbiter.rs D:\Programs\PROGRAMMING\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\actix-rt-2.10.0\src\runtime.rs D:\Programs\PROGRAMMING\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\actix-rt-2.10.0\src\system.rs
+
+D:\Новая папка (2)\crypto-news-aggregator\target\debug\deps\actix_rt-b08e100995715e48.d: D:\Programs\PROGRAMMING\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\actix-rt-2.10.0\src\lib.rs D:\Programs\PROGRAMMING\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\actix-rt-2.10.0\src\arbiter.rs D:\Programs\PROGRAMMING\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\actix-rt-2.10.0\src\runtime.rs D:\Programs\PROGRAMMING\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\actix-rt-2.10.0\src\system.rs
+
+D:\Programs\PROGRAMMING\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\actix-rt-2.10.0\src\lib.rs:
+D:\Programs\PROGRAMMING\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\actix-rt-2.10.0\src\arbiter.rs:
+D:\Programs\PROGRAMMING\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\actix-rt-2.10.0\src\runtime.rs:
+D:\Programs\PROGRAMMING\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\actix-rt-2.10.0\src\system.rs:

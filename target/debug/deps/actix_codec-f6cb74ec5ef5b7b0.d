@@ -1,0 +1,10 @@
+D:\Новая папка (2)\crypto-news-aggregator\target\debug\deps\libactix_codec-f6cb74ec5ef5b7b0.rmeta: D:\Programs\PROGRAMMING\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\actix-codec-0.5.2\src\lib.rs D:\Programs\PROGRAMMING\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\actix-codec-0.5.2\src\bcodec.rs D:\Programs\PROGRAMMING\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\actix-codec-0.5.2\src\framed.rs D:\Programs\PROGRAMMING\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\actix-codec-0.5.2\src\lines.rs
+
+D:\Новая папка (2)\crypto-news-aggregator\target\debug\deps\libactix_codec-f6cb74ec5ef5b7b0.rlib: D:\Programs\PROGRAMMING\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\actix-codec-0.5.2\src\lib.rs D:\Programs\PROGRAMMING\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\actix-codec-0.5.2\src\bcodec.rs D:\Programs\PROGRAMMING\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\actix-codec-0.5.2\src\framed.rs D:\Programs\PROGRAMMING\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\actix-codec-0.5.2\src\lines.rs
+
+D:\Новая папка (2)\crypto-news-aggregator\target\debug\deps\actix_codec-f6cb74ec5ef5b7b0.d: D:\Programs\PROGRAMMING\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\actix-codec-0.5.2\src\lib.rs D:\Programs\PROGRAMMING\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\actix-codec-0.5.2\src\bcodec.rs D:\Programs\PROGRAMMING\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\actix-codec-0.5.2\src\framed.rs D:\Programs\PROGRAMMING\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\actix-codec-0.5.2\src\lines.rs
+
+D:\Programs\PROGRAMMING\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\actix-codec-0.5.2\src\lib.rs:
+D:\Programs\PROGRAMMING\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\actix-codec-0.5.2\src\bcodec.rs:
+D:\Programs\PROGRAMMING\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\actix-codec-0.5.2\src\framed.rs:
+D:\Programs\PROGRAMMING\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\actix-codec-0.5.2\src\lines.rs:

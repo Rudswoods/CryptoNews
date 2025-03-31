@@ -1,0 +1,9 @@
+D:\Новая папка (2)\crypto-news-aggregator\target\debug\deps\libzstd_sys-ba429c3eacdc0644.rmeta: D:\Programs\PROGRAMMING\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zstd-sys-2.0.15+zstd.1.5.7\src\lib.rs D:\Programs\PROGRAMMING\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zstd-sys-2.0.15+zstd.1.5.7\src\bindings_zstd.rs D:\Programs\PROGRAMMING\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zstd-sys-2.0.15+zstd.1.5.7\src\bindings_zdict.rs
+
+D:\Новая папка (2)\crypto-news-aggregator\target\debug\deps\libzstd_sys-ba429c3eacdc0644.rlib: D:\Programs\PROGRAMMING\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zstd-sys-2.0.15+zstd.1.5.7\src\lib.rs D:\Programs\PROGRAMMING\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zstd-sys-2.0.15+zstd.1.5.7\src\bindings_zstd.rs D:\Programs\PROGRAMMING\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zstd-sys-2.0.15+zstd.1.5.7\src\bindings_zdict.rs
+
+D:\Новая папка (2)\crypto-news-aggregator\target\debug\deps\zstd_sys-ba429c3eacdc0644.d: D:\Programs\PROGRAMMING\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zstd-sys-2.0.15+zstd.1.5.7\src\lib.rs D:\Programs\PROGRAMMING\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zstd-sys-2.0.15+zstd.1.5.7\src\bindings_zstd.rs D:\Programs\PROGRAMMING\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zstd-sys-2.0.15+zstd.1.5.7\src\bindings_zdict.rs
+
+D:\Programs\PROGRAMMING\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zstd-sys-2.0.15+zstd.1.5.7\src\lib.rs:
+D:\Programs\PROGRAMMING\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zstd-sys-2.0.15+zstd.1.5.7\src\bindings_zstd.rs:
+D:\Programs\PROGRAMMING\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zstd-sys-2.0.15+zstd.1.5.7\src\bindings_zdict.rs:
