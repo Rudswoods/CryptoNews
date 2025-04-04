@@ -3,18 +3,22 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Crypto News</title>
+    <title>Crypto News Aggregator</title>
     <link rel="stylesheet" href="/static/style.css" />
   </head>
   <body>
-    <h1>Crypto Price Checker</h1>
-    <form action="/news" method="get">
-      <input
-        type="text"
-        name="coin"
-        placeholder="Enter coin symbol (e.g., BTC)"
-      />
-      <button type="submit">Check Price</button>
-    </form>
+    <div class="container">
+      <h1>Crypto News Aggregator</h1>
+      <form action="/news" method="get">
+        <input
+          type="text"
+          name="coin"
+          placeholder="Enter coin symbol (e.g., BTC)"
+          required
+        />
+        <button type="submit">Get Data</button>
+      </form>
+    </div>
   </body>
 </html>
+
