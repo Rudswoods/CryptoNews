@@ -42,6 +42,3 @@ The Cryptocurrency News Aggregator is a Rust-based web service that collects and
 ## Examples
 - Searching for "Bitcoin" will display the latest news articles related to Bitcoin.
 - Searching for "ETH" will show news articles related to Ethereum.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
